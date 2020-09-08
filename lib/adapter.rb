@@ -1,4 +1,4 @@
-class API
+class API 
 
     API_KEY='d9d85c953e7d4cea885476bc60769451'
     BASE_URL='https://api.spoonacular.com/recipes/random'
