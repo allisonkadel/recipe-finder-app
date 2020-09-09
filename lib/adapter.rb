@@ -1,6 +1,6 @@
 class API 
 
-    API_KEY='d9d85c953e7d4cea885476bc60769451'
+    API_KEY=''
     BASE_URL='https://api.spoonacular.com/recipes/random'
 
     def self.fetch_random_recipes(num)
