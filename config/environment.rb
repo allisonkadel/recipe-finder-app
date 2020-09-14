@@ -1,5 +1,8 @@
-require 'bundler/setup'
+require 'bundler'
 Bundler.require
+
+require 'dotenv'
+Dotenv.load
 
 # require ruby gems and code we are dependent on
 require 'open-uri'

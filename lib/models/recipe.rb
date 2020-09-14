@@ -4,7 +4,7 @@ class Recipe
 
     @@all = []
 
-    def initialize(name, instructions, duration)
+    def initialize(name:, instructions:, duration:)
         @name = name
         @instructions = instructions
         @duration = duration
